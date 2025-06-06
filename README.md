@@ -1,6 +1,23 @@
 ## Hi there 👋
 I'm Osooluwa Ajibola
 
+🚀 Skills & Interests
+Food Science: Malting technology, cereal chemistry, sensory science
+
+Programming: JavaScript (React, Node.js), Python, Git
+
+Software Development: Frontend & Backend web development, API integration
+
+Tools: Git, VS Code, npm, Linux CLI
+
+⚡ Fun Fact
+I’m on a mission to build tech bridges between traditional food science and modern software engineering — one project at a time!
+📫 How to Reach Me
+LinkedIn: linkedin.com/in/osooluwa
+
+GitHub: github.com/Osooluwa
+
+Email: osooluwaajibola@gmail.com
 <!--
 **Osooluwa/Osooluwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
