@@ -3,13 +3,13 @@ I'm Osooluwa Ajibola
 
 🚀 Skills & Interests
 
-Food Science: Cereal chemistry, sensory science, flavor chemistry
+Food Science
 
 Programming: JavaScript (React, Node.js), Git
 
 Software Development: Frontend web development
 
-Tools: Git, VS Code, npm, Linux CLI
+Tools: Git, VS Code, Linux CLI
 
 🔭 I’m currently a fellow at 3MTT
 
