@@ -11,7 +11,6 @@ Software Development: Frontend web development
 
 Tools: Git, VS Code, Linux CLI
 
-🔭 I’m currently a fellow at 3MTT
 
 ⚡ Fun Fact
 I’m on a mission to build tech bridges between traditional food science and modern software engineering — one project at a time!
