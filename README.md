@@ -4,12 +4,7 @@ I'm Osooluwa Ajibola
 🚀 Skills & Interests
 
 Food Science
-
-Programming: JavaScript (React, Node.js), Git
-
-Software Development: Frontend web development
-
-Tools: Git, VS Code, Linux CLI
+Software Development
 
 
 ⚡ Fun Fact
